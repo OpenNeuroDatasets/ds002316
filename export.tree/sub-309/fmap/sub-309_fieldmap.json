@@ -1,0 +1,10 @@
+{	
+	"PhaseEncodingDirection": "j-",
+	"TotalReadoutTime": 0.0566,
+	"IntendedFor":["func/sub-309_task-Beast_run-1_bold.nii.gz",
+				   "func/sub-309_task-Beast_run-2_bold.nii.gz",
+				   "func/sub-309_task-reward_run-1_bold.nii.gz",
+				   "func/sub-309_task-reward_run-2_bold.nii.gz",
+				   "func/sub-309_task-rest_bold.nii.gz"
+			]
+}	
